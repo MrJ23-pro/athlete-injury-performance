@@ -1,3 +1,10 @@
 pandas
 jupyter
 openpyxl
+Pillow
+transformers
+torch
+matplotlib
+seaborn
+scikit-learn
+lxml
